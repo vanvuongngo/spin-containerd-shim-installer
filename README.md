@@ -1,5 +1,7 @@
 # spin-containerd-shim-installer
 
+> With the announcement of SpinKube, this repository is being deprecated. Please see the [Installing with Helm](https://www.spinkube.dev/docs/spin-operator/installation/installing-with-helm/#chart-prerequisites) section of the [spinkube.dev](https://www.spinkube.dev) installation documentation for the recommended approach to installing the [containerd-shim-spin](https://github.com/SpinKube/containerd-shim-spin) going forward.
+
 This project provides an automated method to install and configure the containerd shim for Fermyon Spin in Kubernetes.
 
 ## Versions
